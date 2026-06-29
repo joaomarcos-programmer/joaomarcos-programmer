@@ -9,8 +9,10 @@ Bem-vindo ao meu Currículo Web. Minhas Redes Sociais:
 * [Linkedin](https://www.linkedin.com/in/joão-marcos-pereira-alves-5900b6339/)
 * [E-mail](mailto:joaomarcospereiraalves9@gmail.com)
 
+```Mardown
 ## Minhas Habilidades
 | Categoria | Tecnologias | Proficiência |
 | **Linguagens** | C#, C++ | Básico/Intermediário |
 | **Ferramentas** | Git, Github, VS Code | Intermediário |
 | **Sistemas** | Linux Debian, Windows | Intermediário/Avançado |
+```
