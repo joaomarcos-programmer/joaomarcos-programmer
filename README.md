@@ -10,8 +10,9 @@ Bem-vindo ao meu Currículo Web. Minhas Redes Sociais:
 * [E-mail](mailto:joaomarcospereiraalves9@gmail.com)
 
 ## Minhas Habilidades
+
 | Categoria | Tecnologias | Proficiência |
-| :--- |:--- | :--- |
+| :--- |:--- | :---: |
 | **Linguagens** | C#, C++ | Básico/Intermediário |
 | **Ferramentas** | Git, Github, VS Code | Intermediário |
 | **Sistemas** | Linux Debian, Windows | Intermediário/Avançado |
