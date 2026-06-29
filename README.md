@@ -11,7 +11,7 @@ Bem-vindo ao meu Currículo Web. Minhas Redes Sociais:
 
 ## Minhas Habilidades
 | Categoria | Tecnologias | Proficiência |
-| :--- |:--- | :---: |
+| :--- |:--- | :--- |
 | **Linguagens** | C#, C++ | Básico/Intermediário |
 | **Ferramentas** | Git, Github, VS Code | Intermediário |
 | **Sistemas** | Linux Debian, Windows | Intermediário/Avançado |
