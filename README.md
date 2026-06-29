@@ -2,7 +2,7 @@
 ## Estudante de Técnico em Informática | 3° Ano
 
 <div align="center">
-<img src="https://i.ibb.co/yBsRTKj3/Whats-App-Image-2026-05-20-at-11-28-02-PM.jpg" width="200px" border-radius="50%">
+<img src="https://i.ibb.co/yBsRTKj3/Whats-App-Image-2026-05-20-at-11-28-02-PM.jpg" width="350px" style="border-radius: 50%">
 </div>
 
 Bem-vindo ao meu Currículo Web. Minhas Redes Sociais:
