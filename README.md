@@ -12,6 +12,7 @@ Bem-vindo ao meu Currículo Web. Minhas Redes Sociais:
 ```Mardown
 ## Minhas Habilidades
 | Categoria | Tecnologias | Proficiência |
+|:---|:---:|:---:|
 | **Linguagens** | C#, C++ | Básico/Intermediário |
 | **Ferramentas** | Git, Github, VS Code | Intermediário |
 | **Sistemas** | Linux Debian, Windows | Intermediário/Avançado |
@@ -20,6 +21,6 @@ Bem-vindo ao meu Currículo Web. Minhas Redes Sociais:
 ## Objetivos Atuais e Futuros
 - [x] Criar currículo web no Github
 - [x] Dominar sintaxe básica do Markdown
-- [] Aprender conceitos avançados de versionamento
-- [] Contribuir para um projeto Open Source
-- [] Conquistar primeira vaga como Desenvolvedor Júnior
+- [ ] Aprender conceitos avançados de versionamento
+- [ ] Contribuir para um projeto Open Source
+- [ ] Conquistar primeira vaga como Desenvolvedor Júnior
