@@ -16,3 +16,10 @@ Bem-vindo ao meu Currículo Web. Minhas Redes Sociais:
 | **Ferramentas** | Git, Github, VS Code | Intermediário |
 | **Sistemas** | Linux Debian, Windows | Intermediário/Avançado |
 ```
+
+## Objetivos Atuais e Futuros
+- [x] Criar currículo web no Github
+- [x] Dominar sintaxe básica do Markdown
+- [] Aprender conceitos avançados de versionamento
+- [] Contribuir para um projeto Open Source
+- [] Conquistar primeira vaga como Desenvolvedor Júnior
